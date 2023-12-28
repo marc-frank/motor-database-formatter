@@ -1,6 +1,6 @@
 # Motor Database Formatter
 
-A tool to simplify the data entry into the html code of the Motor Database
+A tool to simplify data entry into the html code of the Motor Database
 
 https://marc-frank.github.io/motor-database/
 
