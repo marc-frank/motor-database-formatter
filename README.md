@@ -10,4 +10,4 @@ https://marc-frank.github.io/motor-database/
 
 Download the .exe file corresponding to your PC's architecture and run it.
 
-Being a Windows Forms App, it can't be complied for MacOS or Linux.
+Being a Windows Forms App, it can't be compiled for MacOS or Linux.
